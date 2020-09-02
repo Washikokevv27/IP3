@@ -1,4 +1,3 @@
-:satisfied:
 # IP3
 #### This project interlinks clients to software developers, Wednesday September 2020 
 #### By **WASHIKO KELVIN**&trade;
