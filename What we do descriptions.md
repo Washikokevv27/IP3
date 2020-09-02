@@ -5,7 +5,6 @@ Throughout your project, our designers create and implement visual design and wo
 
 **Development**
 
-All engineers are fluent in the latest enterprise, mobile and web development technologies.
 They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.
 
 **Product Management**
